@@ -1,0 +1,79 @@
+# MCC
+/backmakers/ @CaptainPatate
+/dashboard_analytics/ @CaptainPatate
+/merchant_tokens/ @CaptainPatate
+/merchants/ @CaptainPatate
+/salesforce/ @CaptainPatate
+/bo_merchant/views/catalog/ @CaptainPatate
+/bo_merchant/forms/product.py @CaptainPatate
+
+# Shipping
+/shipping/ @CaptainPatate
+
+# BROWSING
+/landing_page/ @CaptainPatate
+/model_comparison/ @CaptainPatate
+/navigation/ @CaptainPatate
+/product_page/ @CaptainPatate
+/sourcing/ @CaptainPatate
+
+# PAYOUT
+/adyen/ @amaury-gauthier
+/adyen_marketpay/ @amaury-gauthier
+/finance/ @amaury-gauthier
+/kyb/ @amaury-gauthier
+/managers/payment/ @amaury-gauthier
+/payout/ @amaury-gauthier
+
+# PAYIN
+/adyen/ @CaptainPatate
+/adyen_marketpay/ @CaptainPatate
+/bm_ws/payment/ @CaptainPatate
+/bo_merchant/core/orders/payment @CaptainPatate
+/fraud/ @CaptainPatate
+/managers/payment/ @CaptainPatate
+/mobile_ws/payment/ @CaptainPatate
+/payment/ @CaptainPatate
+/paypal/ @CaptainPatate
+
+# PIM
+/catalog_bo/ @CaptainPatate
+/catalog_buyback/ @CaptainPatate
+/catalog/ @CaptainPatate
+/vat/ @CaptainPatate
+
+# BACKBOX
+/buybox/ @CaptainPatate
+
+# CARE
+/client/ @CaptainPatate
+/customer_request/ @CaptainPatate
+/forward_mailing/ @CaptainPatate
+/orders/ @CaptainPatate
+/reviews/ @CaptainPatate
+/sourcing/ @CaptainPatate
+/ws/sav/ @CaptainPatate
+
+# CARE - BRIE
+/insurances/ @CaptainPatate
+/insurances2/ @CaptainPatate
+/productrepairs/ @CaptainPatate
+
+# SEARCH & RECO
+/cross_sell/ @CaptainPatate
+/product_recommendation/ @CaptainPatate
+/search/ @CaptainPatate
+
+# GROWTH & LOVE
+/branding/ @CaptainPatate
+/client/ @CaptainPatate
+/content_service/ @CaptainPatate
+/crm/ @CaptainPatate
+/mail/ @CaptainPatate
+/marketing_feeds/ @CaptainPatate
+/reviews/ @CaptainPatate
+/user_preference/ @CaptainPatate
+
+# PS
+/sourcing/ @CaptainPatate
+/integrations/ @CaptainPatate
